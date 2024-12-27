@@ -1,24 +1,24 @@
-# 🫢 Knapsack Problem Solver
+# 🧮 Knapsack Problem Solver
 
 This project demonstrates the implementation of the **Knapsack Problem** using two approaches:
 - **Brute Force** 
 - **Dynamic Programming**
 
-The program performs multiple experiments to test and compare the performance of both methods. It generates random weights and values for items, calculates the maximum value achievable within a given capacity, and outputs the results for each experiment.
+The program performs multiple experiments to test and compare the performance of both methods. It generates random weights and values for items, calculates the maximum value achievable within a given capacity, and outputs the results for each experiment 🎒.
 
 ---
 
-## 📜 Table of Contents
+## 📋 Table of Contents
 
-- [🌌 About the Project](#-about-the-project)
+- [📖 About the Project](#-about-the-project)
 - [⚙️ Features](#%EF%B8%8F-features)
 - [🚀 Getting Started](#-getting-started)
-- [🗂 Project Structure](#-project-structure)
+- [📂 Project Structure](#-project-structure)
 - [🤝 Contributions](#-contributions)
 
 ---
 
-## 🌌 About the Project
+## 📖 About the Project
 
 The **Knapsack Problem Solver** explores the computational efficiency of solving the classic Knapsack Problem using:
 1. **Brute Force**: Evaluates all possible combinations.
@@ -69,7 +69,7 @@ java Knapsack
 
 ---
 
-## 🗂 Project Structure
+## 📂 Project Structure
 
 ```
 .
@@ -86,5 +86,4 @@ This project was collaboratively developed by me and my colleague. We worked tog
 If you'd like to contribute, please fork the repository and submit a pull request. Suggestions for new features or optimizations are always welcome!
 
 ---
-
 
